@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var txv:TextView = findViewById<TextView>(R.id.txv)
-        txv.text="cathrineee aaa bbb"
+        txv.text="cathrineee "
 
     }
     fun TextDeV(){
