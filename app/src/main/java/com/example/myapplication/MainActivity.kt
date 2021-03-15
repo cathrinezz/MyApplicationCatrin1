@@ -13,4 +13,8 @@ class MainActivity : AppCompatActivity() {
         txv.text="cathrineee aaa bbb"
 
     }
+    fun TextDeV(){
+        var txv:TextView = findViewById<TextView>(R.id.txv)
+        txv.text = "Dev"
+    }
 }
